@@ -25,7 +25,9 @@ public class  µ—È2 {
 		int a[]={21,36,18,96,67,42,54};
 		qSort(a,0,6);
 		System.out.print("≈≈–Ú∫Û:");
-		for(int i=0;i<a.length;i++)		
+		for(int i=0;i<a.length;i++) {
+			
+		}
 
 	}
 }
